@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Application 2022</string>
+
+    <string name="sports">Sports Fragment</string>
+    <string name="school">School Fragment</string>
+    <string name="company">Company Fragment</string>
+
+    <string name="tab_layout">Tab Layout</string>
+    <string name="tabexample">Tab Example</string>
+</resources>
